@@ -1,0 +1,8 @@
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.1
+pillow==10.2.0
+streamlit==1.32.0
+matplotlib==3.8.3
+onnxruntime==1.17.1
+scikit-learn==1.4.1
